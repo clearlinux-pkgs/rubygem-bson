@@ -1,0 +1,5 @@
+# rubygem-mongo requires version (~> 3.0)
+# check: https://rubygems.org/gems/mongo/versions/2.0.6
+# rubygem-moped requires version (~> 3.0)
+# check: https://rubygems.org/gems/moped/versions/2.0.6
+watchurl=https://rubygems.org/gems/bson/versions/(3.[\d\.]*)
