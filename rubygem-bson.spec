@@ -4,7 +4,7 @@
 #
 Name     : rubygem-bson
 Version  : 3.2.0
-Release  : 3
+Release  : 4
 URL      : https://rubygems.org/downloads/bson-3.2.0.gem
 Source0  : https://rubygems.org/downloads/bson-3.2.0.gem
 Summary  : No detailed summary available
